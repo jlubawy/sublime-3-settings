@@ -1,0 +1,1 @@
+copy Preferences.sublime-settings "%APPDATA%\Sublime Text 3\Packages\User"
