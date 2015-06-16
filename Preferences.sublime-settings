@@ -6,7 +6,7 @@
   "spell_check": true,
 
   // The number of spaces a tab is considered equal to
-  "tab_size": 2,
+  "tab_size": 4,
 
   // Set to true to insert spaces when tab is pressed
   "translate_tabs_to_spaces": true,
@@ -50,7 +50,7 @@
   // are listed in folders on the side bar. These can also be set on a per-
   // project basis.
   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
-  "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+  "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", ".tags*"],
   // These files will still show up in the side bar, but won't be included in
   // Goto Anything or Find in Files
   "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
