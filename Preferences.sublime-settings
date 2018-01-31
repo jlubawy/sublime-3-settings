@@ -2,6 +2,9 @@
   // Sets the colors used within the text area
   "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 
+  // Columns in which to display vertical rulers
+  "rulers": [80],
+
   // Set to true to turn spell checking on by default
   "spell_check": true,
 
